@@ -1,0 +1,30 @@
+*
+{
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+:root
+{
+    --dark-blue: #030637;
+    --dark-purple: #3C0753;
+    --purple: #720455;
+    --light-purple: #910A67;
+}
+
+body
+{
+    background: var(--purple);
+}
+
+header
+{
+    background: #030637;
+    height: 75px;
+    width: auto;
+}
+
+.title_page
+{
+    display: flex;
+}
